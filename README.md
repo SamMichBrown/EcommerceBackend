@@ -2,6 +2,8 @@
  # Ecommerce Backend 
 
  ## Description
+ 
+ An example back end for an e-commerce site. Using a working Express.js API that has been configured to use Sequelize to interact with a MySQL database.
 
  ## Installation
   
