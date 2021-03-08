@@ -25,7 +25,7 @@ Refer to videos for walkthrough.
   
 Part 1 - https://drive.google.com/file/d/19WntoAfnv4lYdzq7Vgz8jmQ1oQEiM0U9/view
 
-Part 2 - https://drive.google.com/file/d/19WntoAfnv4lYdzq7Vgz8jmQ1oQEiM0U9/view
+Part 2 - https://drive.google.com/file/d/1hZTPYIiuvnTWgMwUmZPlGylPVMetmq7l/view
   
 ## Contribution
 Made by Samantha Brown
